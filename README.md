@@ -15,7 +15,6 @@ Ideal para fins educativos e didáticos!
 
 1. Clone o repositório:
     git clone https://github.com/N1netyN1ne/interpretador-expressoes
-    cd interpretador-expressoes
 
 2. Acesse a pasta do projeto:
     cd interpretador-expressoes
@@ -34,7 +33,7 @@ Ideal para fins educativos e didáticos!
 5. Execute o projeto:
     python main.py
 
-Autores 
+Autores:
     Ryan Dias
     Alexandre Vinhola
 
