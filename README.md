@@ -14,9 +14,8 @@ Ideal para fins educativos e didáticos!
 ## 🛠️ Instruções de Instalação e Configuração
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
-   cd seu-repo
+    git clone https://github.com/N1netyN1ne/interpretador-expressoes
+    cd interpretador-expressoes
 
 2. Acesse a pasta do projeto:
     cd interpretador-expressoes
@@ -25,6 +24,7 @@ Ideal para fins educativos e didáticos!
     python -m venv venv
     # No Windows
     venv\Scripts\activate
+
     # No Linux/Mac
     source venv/bin/activate
 
